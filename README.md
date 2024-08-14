@@ -60,7 +60,7 @@ Avaj Launcher is a Java-based aircraft simulation program developed as part of t
    ```
 2. Run the simulator:
    ```
-   java ro.academyplus.avaj.simulator.Simulator scenario.txt
+   java -cp src ma.leet.avaj.simulation.Simulation scenario.txt
    ```
 3. Check the generated `simulation.txt` file for output.
 
