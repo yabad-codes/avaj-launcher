@@ -22,13 +22,21 @@ Avaj Launcher is a Java-based aircraft simulation program developed as part of t
    - Implemented for aircraft registration with the weather tower
    - Demonstrates loose coupling between objects
 
+   ![Observer pattern](https://github.com/user-attachments/assets/a30e6619-af89-4ab1-9988-c21f509b4d2c)
+
+
 2. **Singleton Pattern**
    - Applied to WeatherProvider and AircraftFactory classes
    - Ensures a single instance of these classes throughout the application
+  
+   ![Singleton pattern](https://github.com/user-attachments/assets/66f3a8fd-ad82-417b-9363-5fee532ca817)
 
 3. **Factory Pattern**
    - Used in AircraftFactory for creating different types of aircraft
    - Illustrates abstraction in object creation
+
+   ![Factory pattern](https://github.com/user-attachments/assets/79d59e8a-09cc-4480-9f6d-447a8fd33a77)
+
 
 ## Project Structure
 - `Simulator.java`: Main entry point of the application
